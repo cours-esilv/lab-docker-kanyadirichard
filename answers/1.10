@@ -1,0 +1,1 @@
+docker exec -it ml_ops_3 /bin/bash 
